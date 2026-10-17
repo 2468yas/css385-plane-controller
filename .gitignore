@@ -1,0 +1,15 @@
+# Unity stuff we don't need on GitHub
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.vscode/
+.vs/
+.DS_Store
+*.csproj
+*.sln
+*.slnx
+*.user
